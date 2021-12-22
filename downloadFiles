@@ -1,0 +1,2 @@
+#!/bin/bash
+sftp -b downloadAllLinprogFiles kolnicki@linprog.cs.fsu.edu
